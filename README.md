@@ -1,3 +1,6 @@
+//npm init
+//npm i ejs express body-parser mongoose lodash
+
 # Server Starting Code
 
 const express = require("express");
